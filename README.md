@@ -12,7 +12,7 @@ Professional CV developed in pure HTML and CSS, focused on ATS compatibility, cl
 - index.html – main version
 - CrisEliasCV.html – visual version
 - CrisEliasCVATSfriendly.html – ATS-optimized version
-- profile pic 1.jpg – profile image
+- profile.jpg – profile image
 
 ## How to View
 Open `index.html` in any modern browser.
